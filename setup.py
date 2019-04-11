@@ -25,7 +25,7 @@ def read(*names, **kwargs):
 
 setup(
     name='pyfreeze',
-    version='0.0.0',
+    version='0.0.1',
     license='MIT license',
     description='A small library to easily allow freezing, unfreezing and differential learning rates on weights of Pytorch models.',
     long_description='%s\n%s' % (
